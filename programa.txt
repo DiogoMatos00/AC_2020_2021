@@ -1,0 +1,5 @@
+/// HELP PROGRAMA BASE \\\
+
+* A calculadora produzida está dividida em 4 partes: Calculadora simples, Conversões, Calculadora avançada e Help.
+* Cada parte puderá ser acessida intruduzindo o seu número correspondente.
+* E Cada parte do programa será possivel voltar a atras nos menus.

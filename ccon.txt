@@ -1,0 +1,6 @@
+/// HELP CONVERSÕES \\\
+
+* Realiza conversões de um valor em binário para hexadecimal e decimal
+* Realiza conversões de decimal para binário e hexadecimal. 
+* Após definir se o valor a introduzir está em decimal ou binário, o utilizador insere o valor de input e recebe "return" dos valores restantes.
+* É possível voltar à instrução anterior clicando em "voltar".

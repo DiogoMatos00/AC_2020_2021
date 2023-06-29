@@ -1,0 +1,12 @@
+/// HELP CALCULADORA AVANÇADA \\\
+
+* Realiza várias operações matemáticas tais como: 
+	* valor do sen
+	* valor do cos
+	* valor da raíz quadrada de um número
+	* potência de um número de qualquer base e expoente
+	* conversões de graus para radianos e vice-versa
+	* logaritmo(perfeitos) de um número de qualquer base. 
+
+* Basta selecionar a operação desejada e introduzir os inputs pedidos.
+* É possível voltar à instrução anterior clicando em "voltar".

@@ -1,0 +1,10 @@
+/// HELP CALCULADORA SIMPLES \\\
+
+* Realiza 4 operações aritméticas, ou seja: 
+	* somas 
+	* subtrações 
+	* divisões 
+	* multiplicações.
+
+* Após selecionar a operação desejada, o utilizador introduz os dois valores que vão ser utilizados na mesma.
+* É possível voltar à instrução anterior clicando em "voltar".
