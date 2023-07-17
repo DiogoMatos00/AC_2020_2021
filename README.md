@@ -4,8 +4,8 @@
 
 ### Objective
 
-- This Project has made in Assembly MIPS.
-- This program can perform various mathematical operations such as :
+- This Project has been made in Assembly MIPS.
+- This program can perform various mathematical operations, such as :
   * Sen
   * Cos
   * Square Root
